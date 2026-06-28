@@ -55,5 +55,14 @@ A cute, gamified macOS desktop companion that helps you maintain a healthy postu
 - `PostureCompanionApp.swift`: The main entry point and floating window configuration.
 - `SoundManager.swift`: Handles audio feedback for breaks and level-ups.
 
+
+## Screenshots
+<img width="4032" height="3024" alt="IMG_4130" src="https://github.com/user-attachments/assets/f089f8ca-2719-460e-989e-e9990b50223f" />
+<img width="4032" height="3024" alt="IMG_4129" src="https://github.com/user-attachments/assets/f485e63c-3504-422f-b21c-ee22070d38e6" />
+<img width="4032" height="3024" alt="IMG_4128" src="https://github.com/user-attachments/assets/aa66e956-f44a-461e-8b6a-fa3153120d60" />
+<img width="4032" height="3024" alt="IMG_4127" src="https://github.com/user-attachments/assets/424206a4-1918-4929-b631-b4cb9b2ad6d6" />
+
+
+
 ## 📜 License
 MIT License
